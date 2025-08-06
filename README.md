@@ -29,6 +29,3 @@ This is a simple and responsive stopwatch web application developed using HTML, 
 1. Clone or download this repository.
 2. Open the `index.html` file in any modern web browser.
 3. Use the Start, Stop, and Reset buttons to control the stopwatch.
-
-## Project Structure
-
